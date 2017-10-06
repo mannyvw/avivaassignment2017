@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aviva.Droid", "Droid\Aviva.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aviva.iOS", "iOS\Aviva.iOS.csproj", "{6B72B00E-9503-49CF-84E4-B29B51FC60EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avava.Tests", "Avava.Tests\Avava.Tests.csproj", "{ED6232D4-CC93-4238-9635-3279C23E5A84}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aviva.Tests", "Avava.Tests\Aviva.Tests.csproj", "{ED6232D4-CC93-4238-9635-3279C23E5A84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
